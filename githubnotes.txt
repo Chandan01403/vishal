@@ -1,0 +1,26 @@
+Git and GitHub are two different tools that work together to help developers write, manage, and track software code.
+An easy analogy is to think of Git as a camera that takes snapshots of your work so you never lose it, and GitHub as Instagram, a cloud platform where you upload and share those snapshots with the world.
+
+🔍 Git: The Version Control Tool
+
+Git is a free, open-source version control system installed locally on your computer. Created by Linus Torvalds in 2005, it acts like a time machine for your code. [1] (https://www.w3schools.com/git/git_intro.asp), [2] (https://nulab.com/learn/software-development/git-vs-github/), [3] (https://www.theserverside.com/video/Git-vs-GitHub-What-is-the-difference-between-them)
+• How it works: It tracks every change you make to your files. If you make a mistake or your code breaks, Git allows you to roll back to a previous "save point" (called a commit). [1] (https://docs.github.com/en/get-started/start-your-journey/what-is-github), [2] (https://www.w3schools.com/git/git_intro.asp), [3] (https://www.theserverside.com/video/Git-vs-GitHub-What-is-the-difference-between-them)
+• Branching: It lets you create a "branch" (a copy of your project) to safely experiment with new features without messing up your main, working code. [1] (https://www.youtube.com/watch?v=arr1YVqrd7o), [2] (https://docs.github.com/en/get-started/start-your-journey/what-is-github)
+
+🌐 GitHub: The Cloud Platform
+
+GitHub is a cloud-based hosting platform built on top of Git. Owned by Microsoft, it serves as a central hub where developers upload their Git projects (called repositories) to share them online. [1] (https://nulab.com/learn/software-development/git-vs-github/), [2] (https://docs.github.com/en/get-started/start-your-journey/what-is-github), [3] (https://www.w3schools.com/git/git_intro.asp)
+• Collaboration: It provides a visual website interface that makes it easy for multiple people to work on the exact same project simultaneously. [1] (https://www.geeksforgeeks.org/git/git-vs-github/), [2] (https://www.youtube.com/shorts/-4vdglHLOxU)
+• Social Coding: Features like Pull Requests let you request to merge your code into someone else's project, while Issues act as a built-in forum for tracking bugs and feature requests. [1] (https://www.youtube.com/watch?v=-Xfch1DV9Vk&t=214), [2] (https://www.geeksforgeeks.org/git/git-vs-github/)
+
+⚔️ Summary Comparison
+
+
+Feature	Git	GitHub
+What is it?	A local software application.	A web-based cloud platform.
+Where does it live?	Installed directly on your computer.	Hosted online in the cloud.
+Internet Required?	No (works entirely offline).	Yes (requires a connection to sync data).
+Primary Focus	Tracking file changes and version history.	Hosting code, collaboration, and team management.
+Interface	Command Line Interface (CLI) / terminal.	Graphical User Interface (GUI) website.
+
+
